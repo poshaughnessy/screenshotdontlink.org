@@ -6,7 +6,7 @@ I keep seeing well-intentioned people sharing fake / ridiculous / highly-objecti
 ridiculing it with a scathing comment. The trouble is, *they're still linking people to the actual content*, which
 means the "publication" gets more clicks and more advertising $$$. This incentivises these "publications" to make more and more of this garbage, outrageous content.
 
-Stop funding it; stop linking it. *Screenshot, don't link*.
+Stop funding it; stop linking it. *[Screenshot it](https://www.take-a-screenshot.org/), don't link it*.
 
 ## What about other news?
 
