@@ -17,7 +17,7 @@ Totally link to that! If you're not sharing something just to complain about it,
 Some alternatives to screenshots are:
 
 * Linking to an archive of the post. For example, I have seen people link to the [Wayback Machine](https://archive.org/web/web.php). I have not yet looked into this in detail, so I'm interested to [hear your thoughts](https://twitter.com/poshaughnessy).
-* Using a service like [donotlink.it/](https://donotlink.it/), but their site seems to have been down recently and [it probably doesn't work very well](https://www.jefftk.com/p/donotlink-mostly-useless). It won't affect ad revenue.
+* Using a service like [donotlink.it](https://donotlink.it/), but their site seems to have been down recently and [it probably doesn't work very well](https://www.jefftk.com/p/donotlink-mostly-useless). It won't affect ad revenue.
 * Telling your followers to install an ad blocker before they view the page - but that's a hammer to crack a nut and can adversely affect reputable publishers too.
 * Just quoting them in text! (But a screenshot will get noticed more).
 
