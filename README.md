@@ -12,8 +12,15 @@ Stop funding it; stop linking it. *Screenshot, don't link*.
 
 Totally link to that! If you're not sharing something just to complain about it, keep doing that. We need to fund (real) journalism more than ever.
 
-## I don't think this will solve the problem
+## Are there alternatives to screenshots?
 
-You're right that it's just one small part of it. Really we need to help fix revenue generation for real journalism, to help fix the incentives for good. This is something I'm thinking about and I know some very smart people who are working on this. If you have further ideas or feedback, please [get in touch](https://twitter.com/poshaughnessy).
+Yes, you could...
+
+* Link to an archive of the post, e.g. from the [Wayback Machine](https://archive.org/web/web.php).
+* Just quote them
+
+## Will this really solve the problem?
+
+No, it's just one small part of it. Really we need to help fix revenue generation for real journalism, to help fix the incentives for good. This is something I'm thinking about and I know some very smart people who are working on this. If you have further ideas or feedback, please [get in touch](https://twitter.com/poshaughnessy).
 
 **Disclaimer**: This is a personal project, nothing to do with my employer.
