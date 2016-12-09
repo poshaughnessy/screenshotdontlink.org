@@ -16,3 +16,4 @@ Totally link to that! If you're not sharing something just to complain about it,
 
 You're right that it's just one small part of it. Really we need to help fix revenue generation for real journalism, to help fix the incentives for good. This is something I'm thinking about and I know some very smart people who are working on this. If you have further ideas or feedback, please [get in touch](https://twitter.com/poshaughnessy).
 
+**Disclaimer**: This is a personal project, nothing to do with my employer.
