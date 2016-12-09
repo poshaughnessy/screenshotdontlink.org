@@ -8,7 +8,7 @@ means the "publication" gets more clicks and more advertising $$$. This incentiv
 
 Stop funding it; stop linking it. *Screenshot, don't link*.
 
-## What about other articles?
+## What about other news?
 
 Totally link to that! If you're not sharing something just to complain about it, keep doing that. We need to fund (real) journalism more than ever. I help fund a news organisation that I like by being a member - I encourage you to subscribe to reputable news organisations too.
 
